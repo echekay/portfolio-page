@@ -1,0 +1,25 @@
+.about-section {
+  background-color: #c5dbd7;
+}
+
+.tools-section {
+  background-color: #33b29c;
+}
+
+.portfolio-section {
+  background-color: #c5dbd7;
+}
+
+.contact-section {
+  background-color: #33b29c;
+  font: black;
+}
+
+.profile-photo {
+  height: 250px;
+  width: 375px;
+}
+
+a {
+  color: black;
+}
